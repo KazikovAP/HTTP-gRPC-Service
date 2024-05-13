@@ -5,6 +5,7 @@
 
 # Запуск gRPC server
 `go run main.go -gRPC`
+В данный момент запуск grpc сервера находится в папке `grpc`
 
 **Если указать без флага** `go run main.go`
 Запуститься HTTP сервер
